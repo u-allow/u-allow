@@ -85,7 +85,7 @@ What we provide:
 
 Absolutely! Since maintaining a global list of safe domains is hard work, we
 distribute the problem to [local groups](#local-groups) who should maintain their
-own forks of this repository. 
+own forks of the [sample repository](https://github.com/u-allow/sample). 
 
 ### An important domain is missing from the list!
 
